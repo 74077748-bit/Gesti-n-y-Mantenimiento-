@@ -1,2 +1,3 @@
 # Gesti-n-y-Mantenimiento-
-Primer repositorio práctico commit en github
+Nataly Yauri Gonzales
+APSTI
